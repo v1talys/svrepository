@@ -1,2 +1,3 @@
 ConsoleWriteLine("HelloWorld");
 ConsoleWriteLine("Test");
+ConsoleWriteLine("Server Commit");
