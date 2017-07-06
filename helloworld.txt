@@ -1,1 +1,2 @@
 ConsoleWriteLine("HelloWorld");
+ConsoleWriteLine("Test");
